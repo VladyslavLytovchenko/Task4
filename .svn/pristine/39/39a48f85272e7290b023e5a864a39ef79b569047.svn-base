@@ -1,0 +1,15 @@
+package ua.nure.lytovchenko.task4;
+
+
+import java.io.UnsupportedEncodingException;
+
+public class Part2 {
+
+
+    public static void main(String[] args)  {
+
+        WordContainer.main(args);
+
+
+    }
+}

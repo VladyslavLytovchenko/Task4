@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43c5ab50-5821-46b9-9538-e9e22a89a234" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1brrQy0Sx9COi5BieB70trHMvNs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Java projects\Task4\src" />
+      <recent name="F:\Java projects\Task4\src\ua\nure\lytovchenko\task4" />
+      <recent name="F:\Java projects\Task4" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Java projects\Task4\src" />
+      <recent name="F:\Java projects\Task4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Part4">
+    <configuration name="ьфшт" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.nure.lytovchenko.task4.ьфшт" />
+      <module name="Task4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.nure.lytovchenko.task4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Part2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.nure.lytovchenko.task4.Part2" />
+      <module name="Task4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.nure.lytovchenko.task4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Part3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.nure.lytovchenko.task4.Part3" />
+      <module name="Task4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.nure.lytovchenko.task4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Part4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.nure.lytovchenko.task4.Part4" />
+      <module name="Task4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.nure.lytovchenko.task4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Part5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.nure.lytovchenko.task4.Part5" />
+      <module name="Task4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.nure.lytovchenko.task4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Part4" />
+        <item itemvalue="Application.Part5" />
+        <item itemvalue="Application.Part3" />
+        <item itemvalue="Application.ьфшт" />
+        <item itemvalue="Application.Part2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\jeakm\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43c5ab50-5821-46b9-9538-e9e22a89a234" name="Default Changelist" comment="" />
+      <created>1589401040960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589401040960</updated>
+      <workItem from="1589401045146" duration="6890000" />
+      <workItem from="1589466738183" duration="34000" />
+      <workItem from="1589474575517" duration="5078000" />
+      <workItem from="1589488681190" duration="5003000" />
+      <workItem from="1589537644197" duration="3665000" />
+      <workItem from="1589550587616" duration="841000" />
+      <workItem from="1589553973191" duration="2219000" />
+      <workItem from="1589557057890" duration="5664000" />
+      <workItem from="1589625538455" duration="161000" />
+      <workItem from="1589632937384" duration="24000" />
+      <workItem from="1589709017287" duration="10941000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="200" y="203" key="#com.intellij.ide.util.MemberChooser" timestamp="1589549221656">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="200" y="203" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1589549221656" />
+    <state x="523" y="93" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1589709644796">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="523" y="93" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1589709644796" />
+    <state x="393" y="7" key="CommitChangelistDialog2" timestamp="1589721833757">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="393" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1589721833757" />
+    <state width="1493" height="254" key="GridCell.Tab.0.bottom" timestamp="1589721643166">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="254" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589721643166" />
+    <state width="1493" height="254" key="GridCell.Tab.0.center" timestamp="1589721643166">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="254" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589721643166" />
+    <state width="1493" height="254" key="GridCell.Tab.0.left" timestamp="1589721643166">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="254" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589721643166" />
+    <state width="1493" height="254" key="GridCell.Tab.0.right" timestamp="1589721643166">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="254" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589721643166" />
+    <state width="1493" height="254" key="GridCell.Tab.1.bottom" timestamp="1589721643168">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="254" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589721643168" />
+    <state width="1493" height="254" key="GridCell.Tab.1.center" timestamp="1589721643167">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="254" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1589721643167" />
+    <state width="1493" height="254" key="GridCell.Tab.1.left" timestamp="1589721643166">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="254" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1589721643166" />
+    <state width="1493" height="254" key="GridCell.Tab.1.right" timestamp="1589721643168">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="254" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589721643168" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1589625673973">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1589625673973" />
+    <state x="155" y="38" key="new project wizard" timestamp="1589466768646">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="155" y="38" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1589466768646" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1589559115002">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1589559115002" />
+    <state x="581" y="101" width="414" height="621" key="svn.repositoryBrowser" timestamp="1589721715991">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="581" y="101" width="414" height="621" key="svn.repositoryBrowser/0.0.1536.824@0.0.1536.824" timestamp="1589721715991" />
+    <state x="591" y="317" key="svn.upgradeDialog" timestamp="1589721717383">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="591" y="317" key="svn.upgradeDialog/0.0.1536.824@0.0.1536.824" timestamp="1589721717383" />
+  </component>
+</project>
